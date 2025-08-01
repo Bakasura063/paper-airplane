@@ -7,10 +7,12 @@
     "purchaseImage": "https://max-games.ru/public/pluginYG2/images/purchase.png",
     "modules": [
         {
+
           "name": "PluginYG2",
           "version": "2.0041",
           "download": "https://max-games.ru/public/pluginYG2/other/PluginYG2.unitypackage",
           "doc": "https://max-games.ru/plugin-yg/doc/"
+
         },
         {
           "name": "YandexGames",
@@ -48,6 +50,7 @@
           "doc": "https://max-games.ru/plugin-yg/doc/reward-ad/"
         },
         {
+
           "name": "EnvirData",
           "version": "1.0031",
           "download": "https://max-games.ru/public/pluginYG2/modules/EnvirData.unitypackage",
@@ -87,6 +90,7 @@
           "dependencies": "Authorization"
         },
         {
+
           "name": "Localization",
           "version": "1.0011",
           "download": "https://max-games.ru/public/pluginYG2/modules/Localization.unitypackage",
